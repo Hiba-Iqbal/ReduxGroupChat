@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To clone from GitHub
+1- Open your terminal or command prompt.
+2- Once you are in the desired directory, go to the repository's page on GitHub.
+3- Click on the "Code" button located near the top-right corner of the repository page. This will reveal a dropdown with the clone URL.
+4- git clone <paste_the_clone_url>
+
 ## Available Scripts
 
 In the project directory, you can run:
